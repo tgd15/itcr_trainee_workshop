@@ -1,8 +1,8 @@
 # OTTR Template for Websites
 
-This is a template for creating websites from Rmd files hosted on GitHub with three helpful automations following a pull request to the repository: spelling check, broken link check, and website rendering.
+This is my first website published with the ITCR OTTR template.
 
-Websites will be checked for:
+OTTR Websites will be checked for:
 
 - Check for spelling errors more intensively than RStudio and allow you to add words to the dictionary
 - Check for broken links - you will be warned about broken links
